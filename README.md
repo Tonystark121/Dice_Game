@@ -40,7 +40,7 @@
 
 ## Gameplay
 
-![image](https://github.com/Tonystark121/Dice_Game/blob/main/src/assets/dices%201.png)
+![image](https://github.com/Tonystark121/Dice_Game/blob/main/src/assets/home%20page.png)
 
 # About
 This is a simple dice game built using ReactJS.
